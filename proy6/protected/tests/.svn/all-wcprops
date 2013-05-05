@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/proy6/!svn/ver/1/protected/tests
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/proy6/!svn/ver/1/protected/tests/bootstrap.php
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/proy6/!svn/ver/1/protected/tests/phpunit.xml
+END
+WebTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/proy6/!svn/ver/1/protected/tests/WebTestCase.php
+END

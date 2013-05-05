@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/proy6/!svn/ver/24/protected/extensions/yii-debug-toolbar/panels
+END
+YiiDebugToolbarPanelViewsRendering.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/proy6/!svn/ver/24/protected/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelViewsRendering.php
+END
+YiiDebugToolbarPanelSql.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/proy6/!svn/ver/24/protected/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelSql.php
+END
+YiiDebugToolbarPanelSettings.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/proy6/!svn/ver/24/protected/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelSettings.php
+END
+YiiDebugToolbarPanelGlobals.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/proy6/!svn/ver/24/protected/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelGlobals.php
+END
+YiiDebugToolbarPanelLogging.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/proy6/!svn/ver/24/protected/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelLogging.php
+END
+YiiDebugToolbarPanelServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/proy6/!svn/ver/24/protected/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelServer.php
+END

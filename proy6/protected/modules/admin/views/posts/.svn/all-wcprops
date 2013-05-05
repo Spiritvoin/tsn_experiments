@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/proy6/!svn/ver/143/protected/modules/admin/views/posts
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/proy6/!svn/ver/32/protected/modules/admin/views/posts/index.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/proy6/!svn/ver/143/protected/modules/admin/views/posts/admin.php
+END
+_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/proy6/!svn/ver/32/protected/modules/admin/views/posts/_view.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/proy6/!svn/ver/143/protected/modules/admin/views/posts/view.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/proy6/!svn/ver/143/protected/modules/admin/views/posts/_form.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/proy6/!svn/ver/111/protected/modules/admin/views/posts/update.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/proy6/!svn/ver/69/protected/modules/admin/views/posts/create.php
+END

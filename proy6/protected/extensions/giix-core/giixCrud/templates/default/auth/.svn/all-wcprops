@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/proy6/!svn/ver/127/protected/extensions/giix-core/giixCrud/templates/default/auth
+END
+auth_filter_default.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/proy6/!svn/ver/127/protected/extensions/giix-core/giixCrud/templates/default/auth/auth_filter_default.php
+END
+auth_yum.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/proy6/!svn/ver/127/protected/extensions/giix-core/giixCrud/templates/default/auth/auth_yum.php
+END
+auth_filter_strict.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/proy6/!svn/ver/127/protected/extensions/giix-core/giixCrud/templates/default/auth/auth_filter_strict.php
+END
+auth_none.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/proy6/!svn/ver/127/protected/extensions/giix-core/giixCrud/templates/default/auth/auth_none.php
+END

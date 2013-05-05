@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/proy6/!svn/ver/156/protected/modules/admin/controllers
+END
+UserController.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/proy6/!svn/ver/120/protected/modules/admin/controllers/UserController.php
+END
+SettingsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/proy6/!svn/ver/156/protected/modules/admin/controllers/SettingsController.php
+END
+MenuController.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/proy6/!svn/ver/153/protected/modules/admin/controllers/MenuController.php
+END
+CategoriesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/proy6/!svn/ver/115/protected/modules/admin/controllers/CategoriesController.php
+END
+CommentsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/proy6/!svn/ver/35/protected/modules/admin/controllers/CommentsController.php
+END
+EmailingController.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/proy6/!svn/ver/52/protected/modules/admin/controllers/EmailingController.php
+END
+TransactionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/proy6/!svn/ver/1/protected/modules/admin/controllers/TransactionController.php
+END
+MessagesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/proy6/!svn/ver/111/protected/modules/admin/controllers/MessagesController.php
+END
+AdminController.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/proy6/!svn/ver/91/protected/modules/admin/controllers/AdminController.php
+END
+PostsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/proy6/!svn/ver/115/protected/modules/admin/controllers/PostsController.php
+END
+FilemanagerController.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/proy6/!svn/ver/86/protected/modules/admin/controllers/FilemanagerController.php
+END
+PageController.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/proy6/!svn/ver/114/protected/modules/admin/controllers/PageController.php
+END

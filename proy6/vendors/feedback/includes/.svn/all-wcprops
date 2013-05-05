@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/proy6/!svn/ver/98/vendors/feedback/includes
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/config.php
+END
+class.basicCaptcha.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/class.basicCaptcha.php
+END
+class.validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/class.validation.php
+END
+class.basicMailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/class.basicMailer.php
+END
+class.util.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/class.util.php
+END

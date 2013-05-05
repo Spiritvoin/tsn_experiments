@@ -1,0 +1,30 @@
+span.checkbox {
+	width: 17px;
+	height: 17px;
+	padding: 0 0px 0 0;
+	background: url(../images/checkbox.jpg) no-repeat;
+	background: url(../images/checkbox.png) no-repeat;
+	display: inline-block;
+	/*clear: left;*/
+	float: left;
+	margin:0px 4px 0px 0px;
+	overflow:hidden;
+}
+
+span.radio {
+	width: 17px;
+	height: 17px;
+	padding: 0 0px 0 0;
+	background: url(../images/radio.png) no-repeat;
+	margin: 9px 7px 0px 3px;
+	float: left;
+
+	overflow:hidden;
+}
+.select {
+	position: absolute;
+	overflow: hidden; 
+	padding:5px 20px 5px 10px; float:left; margin-bottom:7px;	width:165px;	border: none; height:19px; line-height:19px; background:url(../images/select.jpg) no-repeat right #fff; color:#877168; font-size:13px; -moz-border-radius:2px;   -webkit-border-radius: 2px;   -khtml-border-radius: 2px;   border-radius: 2px;  behavior: url(PIE.htc);
+
+}
+

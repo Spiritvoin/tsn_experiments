@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/proy6/!svn/ver/1/framework/db/schema/sqlite
+END
+CSqliteCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/proy6/!svn/ver/1/framework/db/schema/sqlite/CSqliteCommandBuilder.php
+END
+CSqliteColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/proy6/!svn/ver/1/framework/db/schema/sqlite/CSqliteColumnSchema.php
+END
+CSqliteSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/proy6/!svn/ver/1/framework/db/schema/sqlite/CSqliteSchema.php
+END

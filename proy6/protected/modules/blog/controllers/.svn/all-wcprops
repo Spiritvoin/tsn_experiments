@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/proy6/!svn/ver/113/protected/modules/blog/controllers
+END
+PostsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/proy6/!svn/ver/113/protected/modules/blog/controllers/PostsController.php
+END
+DefaultController.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/proy6/!svn/ver/25/protected/modules/blog/controllers/DefaultController.php
+END
+CommentsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/proy6/!svn/ver/33/protected/modules/blog/controllers/CommentsController.php
+END

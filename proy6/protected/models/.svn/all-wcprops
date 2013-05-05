@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/proy6/!svn/ver/160/protected/models
+END
+RecoveryPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/proy6/!svn/ver/1/protected/models/RecoveryPass.php
+END
+Messages.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/proy6/!svn/ver/122/protected/models/Messages.php
+END
+Countries.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/proy6/!svn/ver/37/protected/models/Countries.php
+END
+Options.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/proy6/!svn/ver/142/protected/models/Options.php
+END
+LoginForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/proy6/!svn/ver/16/protected/models/LoginForm.php
+END
+Page.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/proy6/!svn/ver/145/protected/models/Page.php
+END
+Contents.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/proy6/!svn/ver/128/protected/models/Contents.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/proy6/!svn/ver/143/protected/models/User.php
+END
+ContactForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/proy6/!svn/ver/123/protected/models/ContactForm.php
+END
+MenuManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/proy6/!svn/ver/151/protected/models/MenuManager.php
+END
+UserProfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/proy6/!svn/ver/160/protected/models/UserProfile.php
+END
+Settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/proy6/!svn/ver/156/protected/models/Settings.php
+END
+States.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/proy6/!svn/ver/37/protected/models/States.php
+END

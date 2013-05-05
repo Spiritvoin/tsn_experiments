@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins
+END
+Facepile.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/Facepile.php
+END
+Registration.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/Registration.php
+END
+LiveStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/LiveStream.php
+END
+SPluginBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/SPluginBase.php
+END
+FanBox.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/FanBox.php
+END
+LikeBox.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/LikeBox.php
+END
+SubscribeButton.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/SubscribeButton.php
+END
+ActivityFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/ActivityFeed.php
+END
+LikeButton.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/LikeButton.php
+END
+LoginButton.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/LoginButton.php
+END
+Comments.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/Comments.php
+END
+SendButton.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/SendButton.php
+END
+Recommendations.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/Recommendations.php
+END
+RegistrationParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/proy6/!svn/ver/37/protected/extensions/yii-facebook-opengraph/plugins/RegistrationParser.php
+END

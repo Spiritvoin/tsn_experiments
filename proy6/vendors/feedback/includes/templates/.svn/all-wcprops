@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/templates
+END
+suggestion.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/templates/suggestion.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/templates/header.php
+END
+success.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/templates/success.php
+END
+bug.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/templates/bug.php
+END
+htmlHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/templates/htmlHeader.php
+END
+comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/templates/comment.php
+END
+htmlFooter.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/templates/htmlFooter.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/templates/main.php
+END
+validationError.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/templates/validationError.php
+END
+incorrectAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/proy6/!svn/ver/98/vendors/feedback/includes/templates/incorrectAction.php
+END

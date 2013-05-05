@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/proy6/!svn/ver/144/protected/modules/admin/views/user
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/proy6/!svn/ver/143/protected/modules/admin/views/user/_form.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/proy6/!svn/ver/4/protected/modules/admin/views/user/update.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/proy6/!svn/ver/4/protected/modules/admin/views/user/create.php
+END
+_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/proy6/!svn/ver/1/protected/modules/admin/views/user/_search.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/proy6/!svn/ver/1/protected/modules/admin/views/user/index.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/proy6/!svn/ver/143/protected/modules/admin/views/user/admin.php
+END
+_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/proy6/!svn/ver/1/protected/modules/admin/views/user/_view.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/proy6/!svn/ver/144/protected/modules/admin/views/user/view.php
+END

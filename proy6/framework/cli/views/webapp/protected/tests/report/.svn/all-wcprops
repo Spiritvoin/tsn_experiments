@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/proy6/!svn/ver/1/framework/cli/views/webapp/protected/tests/report
+END
+hg.hgkeep
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/proy6/!svn/ver/1/framework/cli/views/webapp/protected/tests/report/hg.hgkeep
+END
+git.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/proy6/!svn/ver/1/framework/cli/views/webapp/protected/tests/report/git.gitkeep
+END

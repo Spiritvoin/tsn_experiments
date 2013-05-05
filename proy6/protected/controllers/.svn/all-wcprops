@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/proy6/!svn/ver/161/protected/controllers
+END
+SiteController.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/proy6/!svn/ver/128/protected/controllers/SiteController.php
+END
+PageController.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/proy6/!svn/ver/9/protected/controllers/PageController.php
+END
+UserController.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/proy6/!svn/ver/10/protected/controllers/UserController.php
+END
+UserProfileController.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/proy6/!svn/ver/161/protected/controllers/UserProfileController.php
+END
+AuthController.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/proy6/!svn/ver/159/protected/controllers/AuthController.php
+END

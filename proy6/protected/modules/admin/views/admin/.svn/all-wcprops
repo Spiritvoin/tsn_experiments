@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/proy6/!svn/ver/49/protected/modules/admin/views/admin
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/proy6/!svn/ver/49/protected/modules/admin/views/admin/index.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/proy6/!svn/ver/1/protected/modules/admin/views/admin/login.php
+END
+login_tsn.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/proy6/!svn/ver/22/protected/modules/admin/views/admin/login_tsn.php
+END
+registredByCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/proy6/!svn/ver/1/protected/modules/admin/views/admin/registredByCategory.php
+END
+chartSpecializations.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/proy6/!svn/ver/1/protected/modules/admin/views/admin/chartSpecializations.php
+END
